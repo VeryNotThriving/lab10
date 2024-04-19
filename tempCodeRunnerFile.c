@@ -1,0 +1,1 @@
+if(pTrie->children[i] != NULL){
